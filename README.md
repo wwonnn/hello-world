@@ -1,2 +1,2 @@
 # hello-world
-open sw platform
+This is a repository of hello-world practice
